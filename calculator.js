@@ -27,6 +27,6 @@ else if (action === '/') {
  if(!isNumeric(name1,name2)||action!=='+'||action!=='-'||action!=='*'||action!=='/')
 {alert('Error');
 }
-
+ 
 
 
